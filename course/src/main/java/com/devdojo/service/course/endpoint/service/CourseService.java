@@ -1,4 +1,4 @@
-package com.micro.service.endpoint.service;
+package com.devdojo.service.course.endpoint.service;
 
 import com.devdojo.service.core.model.Course;
 import com.devdojo.service.core.repository.CourseRepository;

@@ -1,4 +1,4 @@
-package com.micro.service;
+package com.devdojo.service.course;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
