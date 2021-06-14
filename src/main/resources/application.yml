@@ -4,9 +4,13 @@ server:
     include-stacktrace: on_param
 
 spring:
+  application:
+    name: gateway
   database: h2
   console: true
   path: /h2
+  jmx:
+    enabled: false
 
 datasource:
   platform: h2
