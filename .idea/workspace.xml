@@ -4,24 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c93ca1bd-45d8-4c8a-a97b-ff9d5ceb9b50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/course/src/main/java/com/micro/service/MicroServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/course/src/main/java/com/devdojo/service/course/MicroServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/src/main/java/com/micro/service/endpoint/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/course/src/main/java/com/devdojo/service/course/endpoint/controller/CourseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/src/main/java/com/micro/service/endpoint/service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/course/src/main/java/com/devdojo/service/course/endpoint/service/CourseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/src/test/java/com/micro/service/MicroServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/course/src/test/java/com/devdojo/service/course/MicroServiceApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="582eade5-af05-4d30-93b2-574404718153" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/course/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectId" id="1txWBUzTAqsUadfq0W8CPTknEIC" />
+  <component name="ProjectId" id="20HGY9u7frOnpio7bckxUa6eC04" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,24 +22,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/core/src/main/java/com/micro/service/core/model" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\monitorlab1.UNIFACEF\Desktop\java-micro-service\core\src\main\java\com\micro\service\core\model" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.micro.service.core.repository" />
-    </key>
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager">
-    <configuration name="MicroServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.devdojo.service.course.MicroServiceApplication" />
+    <configuration name="CourseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.youtube.course.CourseApplication" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.devdojo.service.course.*" />
+          <option name="PATTERN" value="academy.devdojo.youtube.course.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,30 +43,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MicroServiceApplication" />
+        <item itemvalue="Application.CourseApplication" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c93ca1bd-45d8-4c8a-a97b-ff9d5ceb9b50" name="Default Changelist" comment="" />
-      <created>1623711089713</created>
+      <changelist id="582eade5-af05-4d30-93b2-574404718153" name="Default Changelist" comment="" />
+      <created>1635694159156</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1623711089713</updated>
+      <updated>1635694159156</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

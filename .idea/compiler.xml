@@ -14,7 +14,7 @@
     <bytecodeTargetLevel>
       <module name="core" target="11" />
       <module name="course" target="11" />
-      <module name="microservice" target="11" />
+      <module name="microservices-java-devdojo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
