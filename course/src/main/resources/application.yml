@@ -8,7 +8,7 @@ eureka:
     prefer-ip-address: true
   client:
     service-url:
-      defaultZone: http://localhost:8081/eureka/
+      defaultZone: http://localhost:8091/eureka/
     fetch-registry: true
     register-with-eureka: true
 
@@ -21,12 +21,10 @@ spring:
     show-sql: false
     hibernate:
       ddl-auto: update
-    properties:
-      hibernate:
-        dialect: org.hibernate.dialect.MySQL8Dialect
+
   jmx:
     enabled: false
   datasource:
-    url: jdbc:mysql://localhost:3306/devdojo?allowPublicKeyRetrieval=true&sslMode=DISABLED
+    url: jdbc:mysql://localhost:3306/devdojo?allowPublicKeyRetrieval=true&sslMode=DISABLED&useSSL=false
     username: root
     password: joao
