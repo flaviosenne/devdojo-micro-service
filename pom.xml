@@ -18,6 +18,7 @@
     <modules>
         <module>course</module>
         <module>core</module>
+        <module>auth</module>
         <module>discovery</module>
         <module>gateway</module>
     </modules>
