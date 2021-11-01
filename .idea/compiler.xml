@@ -16,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="core" target="11" />
       <module name="course" target="11" />
+      <module name="devdojo-microservices" target="1.8" />
       <module name="discovery" target="11" />
       <module name="gateway" target="11" />
       <module name="microservices-java-devdojo" target="1.8" />
