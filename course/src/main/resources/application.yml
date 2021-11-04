@@ -26,4 +26,4 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/devdojo?allowPublicKeyRetrieval=true&sslMode=DISABLED&useSSL=false
     username: root
-    password: joao
+    password: joaoflavio
